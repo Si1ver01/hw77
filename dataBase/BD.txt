@@ -1,0 +1,37 @@
+[
+  {
+    "author": "Anonymous",
+    "message": "hello",
+    "filename": null,
+    "id": "SZPMAZpkpcsX5jTuJ6tU8",
+    "date": "2020-02-13T09:34:31.316Z"
+  },
+  {
+    "author": "Anonymous",
+    "message": "123",
+    "filename": null,
+    "id": "y6VDEPQH0wViVRDZ6-GLw",
+    "date": "2020-02-13T09:34:35.927Z"
+  },
+  {
+    "author": "Anonymous",
+    "message": "my tyt vse anony",
+    "filename": null,
+    "id": "4fpibGAwRDJgAOruhKJGE",
+    "date": "2020-02-13T09:34:52.919Z"
+  },
+  {
+    "author": "Anonymous",
+    "message": "A seichas bydet kartinka",
+    "filename": "sZo4s01Us64J8BxwIZTDS.jpg",
+    "id": "WPIBTGwwwE1CAFjJFaTdg",
+    "date": "2020-02-13T09:35:16.836Z"
+  },
+  {
+    "author": "Anonymous",
+    "message": "ot translita bolyat glaza (((",
+    "filename": null,
+    "id": "_jkI8vLgZ6FEGMIw8-ocY",
+    "date": "2020-02-13T09:35:32.746Z"
+  }
+]
